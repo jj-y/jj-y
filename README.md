@@ -1,5 +1,3 @@
-### Hi there
-
 # Hi there, I'm Jan-Jonas Kisters!
 
 I traverse the realms of  [Heinrich Heine University](https://www.uni-duesseldorf.de/home/), locatet in the city of Düsseldorf, Germany.
@@ -13,13 +11,10 @@ I traverse the realms of  [Heinrich Heine University](https://www.uni-duesseldor
 ## 🛠️ Technologies & Tools
 - The Holy Editor (Vim & Neovim)
 
-## ⚠️ Cosmic-Rays-Powered README
-- **Cosmic Disclosure:** Fragments of this README were shaped by the unpredictable dance of cosmic rays, occasionally influencing the bits in my computational realm. The cosmic interplay might not entirely align with my finite mortal perceptions. Even amidst the cosmic chaos, I, A gRoK bRaIn, MaY sTuMblE uPoN MoMeNtS oF sUcCeSsFuL eScApEs FrOm ViM's GrAsP! 😄
-
-
+## ⚠️ Cosmic-Rays-Powered Ai README
+- **Cosmic Disclosure:** Fragments of this README were shaped by the unpredictable dance of cosmic rays, entwined with AI's ethereal touch, occasionally influencing the bits in my computational realm. The cosmic interplay might not entirely align with my finite mortal perceptions. Even amidst the cosmic chaos, I, A gRoK bRaIn, MaY sTuMblE uPoN MoMeNtS oF sUcCeSsFuL eScApEs FrOm ViM's GrAsP! 😄
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile URL]
-- [Any other social media or professional profiles]
+Seeking an exit strategy from Vim or just tech talk? Join me on the quest! Find me [Your Preferred Link or Social Media Handle]. Let's navigate this terminal maze together!
 
 Feel free to explore my repositories below and connect with me! 😊
